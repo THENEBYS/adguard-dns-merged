@@ -74,6 +74,9 @@ if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
         echo "### AdGuard DNS 合并结果"
         echo "- 最终规则：**$final** 行"
         echo "- 成功源：$ok / 跳过：$failed"
-        [ -s "$TMP/warnings.txt" ] && { echo ""; cat "$TMP/warnings.txt"; }
+        if [ -s "$TMP/warnings.txt" ]; then echo ""; cat "$TMP/warnings.txt"; fi
     } >> "$GITHUB_STEP_SUMMARY"
 fi
+
+# 显式成功退出：避免尾部条件判断的空告警测试返回值成为脚本退出码（本地未触发，Actions 触发）
+exit 0
