@@ -7,13 +7,13 @@
 在 AGH「过滤器 → DNS 封锁清单 → 添加订阅」里填入：
 
 ```
-https://raw.githubusercontent.com/<你的用户名>/adguard-dns-merged/main/merged.txt
+https://raw.githubusercontent.com/THENEBYS/adguard-dns-merged/main/merged.txt
 ```
 
 若 AGH 拉 GitHub raw 不通，改用镜像前缀：
 
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/<你的用户名>/adguard-dns-merged/main/merged.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/THENEBYS/adguard-dns-merged/main/merged.txt
 ```
 
 > 仓库必须**公开**，否则 AGH 匿名拉取拿不到文件。规则列表本身不含隐私。
