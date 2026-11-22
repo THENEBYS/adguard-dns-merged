@@ -1,0 +1,5 @@
+# 临时拉取文件
+*.tmp
+src.txt
+all.txt
+merged
