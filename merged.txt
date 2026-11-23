@@ -1,19 +1,19 @@
 # AdGuard DNS 合并规则 — 自动生成，请勿手改
-# 生成时间: 2026-11-22 23:08:35 CST
+# 生成时间: 2026-11-23 08:08:04 CST
 # ----------------------------------------
 # 合并统计
 #   源数量:        8 成功 / 0 跳过
-#   原始规则总数:  1,250,520 行
+#   原始规则总数:  1,251,043 行
 #   去注释/空行:   -5,833 行
-#   整行去重删除:  -457,401 行
-#   最终保留:      787,286 行（压缩 37.0%）
+#   整行去重删除:  -457,756 行
+#   最终保留:      787,454 行（压缩 37.1%）
 # ----------------------------------------
 # 各源明细（原始行 → 有效行）
-#   filter.txt             194,072 → 192,398
+#   filter.txt             194,185 → 192,511
 #   hosts.txt              10,607 → 6,542
-#   adblocker              220,743 → 220,730
+#   adblocker              220,584 → 220,571
 #   mv.txt                 180 → 135
-#   easylist.txt           96,603 → 96,597
+#   easylist.txt           97,172 → 97,166
 #   adblockdns.txt         241,917 → 241,907
 #   AWAvenue-Ads-Rule.txt  996 → 985
 #   hosts                  485,402 → 485,393
@@ -494691,6 +494691,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||1x-slot.site^
 ||1x-slots.site^
 ||1x.biz^
+||1x.club^
 ||1x.de^
 ||1x.net^
 ||1x.ov6r1om1wf6eby55ky7j.cyou^
@@ -497642,6 +497643,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||6ruoo1fjuizfz1xzpmu2m55g.cfd^
 ||6s0zo8jzbb.com^
 ||6s78n1rj4r.com^
+||6s83mz9kbtrj.com^
 ||6sc.co^
 ||6server.com^
 ||6sim.vip^
@@ -499143,6 +499145,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||9e031f589f.com^
 ||9e11ec3a56.com^
 ||9e1b47e1b9.com^
+||9e3c.com^
 ||9e4afffb45.f89c071ed0.com^
 ||9e4f36p.9e4f36ac42b42a2843aeaf76546d870efac560b0.com^
 ||9e6b5751c2.com^
@@ -501532,6 +501535,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||a9d4750f56.com^
 ||a9d8e7b6i5s.andgino.jp^
 ||a9ecbdaf.eulerian.io^
+||a9f3k7z2m1.com^
 ||a9o.youlikeboys.com^
 ||a9td5xslu.com^
 ||a9v8.cn^
@@ -501837,6 +501841,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||aasddcun.shopalpsupply.com^
 ||aaspp-matomo-ingress-alb-1741779242.us-east-1.elb.amazonaws.com^
 ||aassp.wgzty.cn^
+||aasss111222222.tos-cn-beijing.volces.com^
 ||aastdrp.africanancestry.com^
 ||aatkit.com^
 ||aaubh.trycloud9.com^
@@ -501926,6 +501931,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||abamatachiol.com^
 ||abamawristed.shop^
 ||abampuniateducky.cfd^
+||abandonedfood.pro^
 ||abaolokzrkybm.top^
 ||abariripes.store^
 ||abaryoyidjcso.store^
@@ -503520,6 +503526,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||acylbirri.digital^
 ||acylsheaths.com^
 ||acylsowsen.cyou^
+||acyrbscgr.com^
 ||acyxssqjdvfaj.space^
 ||aczhuwlna.com^
 ||aczoh.myhealth-lifestyle.com^
@@ -505869,6 +505876,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||adm.52swine.com^
 ||adm.6park.com^
 ||adm.71100.net^
+||adm.86wan.com^
 ||adm.adminstrumentengineering.com.au^
 ||adm.arotastudio.com.br^
 ||adm.baidu.com^
@@ -505992,6 +506000,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||admin.darnelgroup.com^
 ||admin.dbzboutique.fr^
 ||admin.digitalacre.com^
+||admin.gestroom.it^
 ||admin.gettopple.com^
 ||admin.giaminhmedia.vn^
 ||admin.growthwithhasan.com^
@@ -511607,6 +511616,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||agitationfourthplug.com^
 ||agitationmedicdrug.com^
 ||agitazio.com^
+||agiyftyfyopyf.site^
 ||agjevez.ztraks.de^
 ||agjrfocatndh.com^
 ||agjrfynvhlupc.online^
@@ -521413,6 +521423,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||antiblock.info^
 ||antibot.me^
 ||antibot.wildberries.ru^
+||antibotchecker.pro^
 ||antibotcloud.com^
 ||anticalonstand.com^
 ||anticancer.news^
@@ -528333,6 +528344,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||aybocrepirfch.space^
 ||ayboll.sgsrv.com^
 ||aybyrsiypzevk.site^
+||ayc0zsm69431gfebd.info.com^
 ||ayciteflomhgz.site^
 ||ayctbhlndyarx.space^
 ||aydtkb.pikabu.ru^
@@ -529341,6 +529353,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||bamfd.hellobatch.com^
 ||bamib.lanural.co^
 ||bammg.affordablegolf.co.uk^
+||bamnvzwazmlzn.space^
 ||bamorint.net^
 ||bamulat.blogspot.hu^
 ||bamvaodayxem.blogspot.com^
@@ -530300,7 +530313,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||bcigeg.pishposhbaby.com^
 ||bcigfr.www.uoc.edu^
 ||bcipdjxnepdpm.website^
-||bcjhlhuhq.icu^
 ||bcjjg.bugsevent.com^
 ||bcjxf.bugsevent.com^
 ||bckbhadz.com^
@@ -532022,6 +532034,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||bez.vowega.de^
 ||bezahlen.net^
 ||bezelsasianicberinse.qpon^
+||bezhaicqxqaku.online^
 ||bezkroplifitness.com^
 ||bf-ad-lgsmartad-com.aws-prd.net^
 ||bf-ad.net^
@@ -532116,6 +532129,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||bfyaqriuvwrqo.site^
 ||bfycxv.atlasformen.nl^
 ||bfydivtgupbqi.site^
+||bfykxkeewyhdi.site^
 ||bfyybnlyys.com^
 ||bfyydwxdkefev.online^
 ||bfyz-defender.pro^
@@ -532528,6 +532542,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||bhxh.co^
 ||bhyuu.com^
 ||bhzlnqdgqg.com^
+||bhzpqpxidbsho.site^
 ||bhzsid.deghishop.it^
 ||bi-events-collector.spot.im^
 ||bi-eventtracker-*.amazonaws.com^
@@ -533991,6 +534006,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||blowingwind.xyz^
 ||blowlamp38.top^
 ||blowlamp65.com^
+||blownshortia.com^
 ||bloxplay.com^
 ||bloxstrap.org^
 ||blp-whatsapp.com^
@@ -535155,6 +535171,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||borowska-krakow.com^
 ||borrowhourglass.com^
 ||borsendental.com^
+||borslaves.cfd^
 ||borsvarlden-banners.azurewebsites.net^
 ||bort.busty-wife.com^
 ||bortzeswaspy.cfd^
@@ -537540,6 +537557,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||bvl5bziz9d.ru^
 ||bvlhbzhwkhfoc.space^
 ||bvlpbn.goldenpark.es^
+||bvmatqnam.com.vn^
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvmlt.top^
@@ -539839,6 +539857,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||caprizecaprizedogcollar.com^
 ||caprizecaprizeflagfur.com^
 ||caprockarabism.qpon^
+||caprockchurchy.com^
 ||caprofitx.adtop.com^
 ||caprofitx.com^
 ||capsidsflyleaf.com^
@@ -541198,6 +541217,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||cdlpwgslkpgma.online^
 ||cdm.cursecdn.com^
 ||cdmnmrgwdltpe.site^
+||cdmvwwwusfbrq.website^
 ||cdn*.swaxis.com^
 ||cdn-*.gravityfield.ai^
 ||cdn-01.gravityfield.ai^
@@ -541470,6 +541490,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||cdn.fedsy.xyz^
 ||cdn.fedykr.com^
 ||cdn.fegivja.com^
+||cdn.file6.goodid.com^
 ||cdn.finnkone.fi^
 ||cdn.firstpromoter.com^
 ||cdn.foractiv.cz^
@@ -543535,6 +543556,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||churro.noteapps.info^
 ||churromisos.com^
 ||chushoushijian.cn^
+||chutvenus.com^
 ||chuyen.net^
 ||chuyendoitienquote-nhantien24h.weebly.com^
 ||chuyengiadinh.org^
@@ -543883,6 +543905,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||cixukya.com^
 ||cixx6.com^
 ||ciyxejfqrtvqq.site^
+||ciyxsrdlcmnrg.site^
 ||cizegfgxpavpz.site^
 ||cizion.com^
 ||cizml.wyndhamhotels.com^
@@ -545795,6 +545818,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||cmhvb.vanitycouture.com^
 ||cmifu.grantisland.com^
 ||cmiqau.amazinggrass.com^
+||cmir.mx^
 ||cmiupqlouwnnw.website^
 ||cmix.org^
 ||cmjob.lazyroyal.com^
@@ -548725,6 +548749,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||connexionsafe.com^
 ||connexity.net^
 ||connext-cdn.azureedge.net^
+||connext-fd-gnbrate4fjhjb3f7.z01.azurefd.net^
 ||connextra.com^
 ||connhangheo.top^
 ||conniesmarty.cyou^
@@ -549768,6 +549793,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||coralfundics.net^
 ||coralls.com^
 ||coralogix.com^
+||coralpac.com^
 ||coralreverie.com^
 ||coralrimed.cfd^
 ||coralwatches.com^
@@ -552052,6 +552078,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||csudgirlnnkir.space^
 ||csufnzbxyfrfd.space^
 ||csuhgqcwubodd.online^
+||csuhhkjxvlaub.space^
 ||csuni.fitmycar.com^
 ||csure.demoniacult.com^
 ||csurvhsqmuvmt.site^
@@ -562276,6 +562303,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||datatechdrift.com^
 ||datatechone.com^
 ||datatechonert.com^
+||datatimes.centralus.cloudapp.azure.com^
 ||datatrack.congressocied.com.br^
 ||datatrack.myrnk.com^
 ||datatrack.rnkhealthmeds.com^
@@ -562991,6 +563019,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ddmr.com^
 ||ddmuiijrdvv0s.cloudfront.net^
 ||ddnahc.mesbagages.com^
+||ddnamegymnic.com^
 ||ddngtv.pittarello.com^
 ||ddnmgkbujtswr.website^
 ||ddns.info^
@@ -563782,6 +563811,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||dentalfix.shop^
 ||dentalsearchsolutions.com^
 ||dentehotenstvi.cz^
+||dentilchimbe.rest^
 ||dentileazurite.com^
 ||dentilsdumbcow.qpon^
 ||dentistsinyourarea.com^
@@ -563859,6 +563889,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||depttake.ga^
 ||depucelborasca.cfd^
 ||depucelsurcoat.com^
+||depureplowers.cyou^
 ||depurgearomas.com^
 ||deputesastay.com^
 ||deputizeeverydayexorcist.com^
@@ -565414,6 +565445,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||diningfreshmansavage.com^
 ||diningprefixmyself.com^
 ||diningsovereign.com^
+||dinkiesdauded.rest^
 ||dinklyablates.com^
 ||dinmansennas.com^
 ||dinnerquartz.com^
@@ -567174,6 +567206,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||doriahedgingetymons.cyou^
 ||dorianbaroque.org^
 ||doribet.com^
+||dorkexspffjmk.online^
 ||dorklandparis.fr^
 ||dorli.thehealthclique.co^
 ||dormir.dormax.pt^
@@ -567621,6 +567654,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||dqgxcjyrfawra.online^
 ||dqhepocpcwspj.space^
 ||dqif5bl25s0bf.cloudfront.net^
+||dqkmqfecjcjcm.site^
 ||dqlnwrulga.com^
 ||dqlrjkhbgtncp.space^
 ||dqmgvcgaghhww.online^
@@ -567799,6 +567833,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||dreamtcowhyyides.info^
 ||dreamteamaffiliates.com^
 ||dreamvegas.com^
+||dreamwatchevent.com^
 ||dreamy-blini-b35e3e.netlify.app^
 ||dreamytabs.com^
 ||dreamz.com^
@@ -570922,6 +570957,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||earthworm.makethemdebate.com^
 ||earthworm.mxdvl.com^
 ||earthyfarm.com^
+||earwaxhurty.cyou^
 ||earwig.architecturesofhiding.com^
 ||earwig.oofi.es^
 ||earzow.com^
@@ -578556,6 +578592,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||f8ejqxp.cn^
 ||f8gei4t89vvo84g3hu6toe.cfd^
 ||f8phvntohv.tpetry.me^
+||f8t61ilbfcyi4ntnkm4.rest^
 ||f8thmb.qpon^
 ||f921e4caa3.com^
 ||f925caf3.eulerian.io^
@@ -579695,6 +579732,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||fcfgnzaozklfp.space^
 ||fcfvj.drinkag1.com^
 ||fcgatc.keessmit.de^
+||fcgtrj.com^
 ||fcharspeeder.com^
 ||fcheng.top^
 ||fchgd.arula.com^
@@ -579702,6 +579740,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||fchxrosjemara.site^
 ||fcifaypfepfvy.space^
 ||fcirv.plutopillow.com^
+||fcitantibot.pro^
 ||fcizcj.burlingtonfreepress.com^
 ||fcjmpgwlxrzdv.space^
 ||fcjth.waggingrightsshop.com^
@@ -579758,6 +579797,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||fcustom.furnib.com^
 ||fcuzoswetczks.site^
 ||fcvnd.apothekenaratgeber.com^
+||fcvtezfmexnfw8im66btwx.cfd^
 ||fcvxmhtpvpuld.space^
 ||fcwdsidinixoz.website^
 ||fcxbs.com^
@@ -579894,6 +579934,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||feasibleunpredictable.com^
 ||feast-events.guardianapis.com^
 ||featherstage.com^
+||featherwallet.com^
 ||feathr.co^
 ||feature-fix.net.mydays.de^
 ||feature-flag-edge.live.clickbus.net^
@@ -580077,6 +580118,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||fellowshiplyricsceasless.com^
 ||fellowshipoftheminds.com^
 ||fellowshipvillage.fellowshiplifeinc.org^
+||fellowunsulkysud.cyou^
 ||felnavi.shop^
 ||felor.xyz^
 ||felskapitek.com^
@@ -584567,7 +584609,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||fsmhub.icu^
 ||fsmnmorgb.com^
 ||fsmozsiqsdapq.store^
-||fsnazsmk.icu^
 ||fsnfo.mymedic.com^
 ||fsnkdjtnifxze.site^
 ||fso.elevate-future.eu^
@@ -584932,6 +584973,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||funintheuk.com^
 ||funkingdefat.rest^
 ||funklicks.com^
+||funkpit.com^
 ||funkydaters.com^
 ||funnedravage.com^
 ||funnel.olivegroveoundle.co.uk^
@@ -585774,6 +585816,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||g2c.cloud-elements.com^
 ||g2dgmgl9dy.com^
 ||g2insights-cdn.azureedge.net^
+||g2insights-fd-a0gpgwa4fycxd9d4.z01.azurefd.net^
 ||g2w9awdq0.com^
 ||g2wg5308q.com^
 ||g2zwortpg.info^
@@ -586012,6 +586055,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||gafiaxbgloyvs.space^
 ||gaflphlwqqhch.site^
 ||gafpjt.maybe-baby.co.kr^
+||gafsjogoxeepk.online^
 ||gagateway.stpetecountryfest.com^
 ||gageek.terrapizza.com.tr^
 ||gaggigjzganfc.online^
@@ -586767,6 +586811,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||gbong.vip^
 ||gbooksdownloader.com^
 ||gbotvisit.com^
+||gboutros.howto.rocks^
 ||gbpgu.groomiebeauty.com^
 ||gbphe.letswander.co^
 ||gbpuw9l.5yvw6h11o179qj.cyou^
@@ -588201,6 +588246,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ggfpasvmhfxyb.website^
 ||ggg.zj.com^
 ||ggga.greatgarden.co.uk^
+||gggblvs.com^
 ||ggglu.senitaathletics.com^
 ||gggpppht.com^
 ||gggsex.info^
@@ -589372,6 +589418,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||glthub.net^
 ||glthubse.info^
 ||glttyvioxw.com^
+||gltzwkfiddrxc.site^
 ||glucavit.com^
 ||glucicrumbas.com^
 ||glue.evansadhesive.com^
@@ -590820,6 +590867,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||godev.steps.me^
 ||godfather.yorck.de^
 ||godfkkathered.info^
+||godfreymeithei.click^
 ||godhat.com^
 ||godiciardstia.com^
 ||godkc.com^
@@ -591072,6 +591120,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||gonpc.com^
 ||gonreommon.com^
 ||gonujovux.com^
+||gonzuzjvacews.website^
 ||goo-access-analytics.appspot.com^
 ||goobaaclient.lovable.app^
 ||good-ads-online.com^
@@ -591575,6 +591624,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||gqgvzbgm.carterbay.com^
 ||gqgyurwgwlcux.space^
 ||gqhfjr.sizeofficial.es^
+||gqhkkcqfnxuiu.site^
 ||gqhlrr.fragrancedirect.co.uk^
 ||gqhlt.lineutm.com^
 ||gqhufphizxbjc.site^
@@ -599705,6 +599755,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||halvestos.qpon^
 ||halvorynt.com^
 ||halvwk.jetcost.ie^
+||halxkyhulju.in^
 ||hamalnarrowfinnier.cyou^
 ||hambtr.unilife.co.jp^
 ||hamburg-hotel.net^
@@ -599717,6 +599768,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hamiltonpainters.ca^
 ||hamiltonreporter.com^
 ||hamipdnohiesz.site^
+||hamiticquinspasms.cyou^
 ||hamlahbooing.qpon^
 ||hamletoutnumberrascal.com^
 ||hamletuponcontribute.com^
@@ -599857,6 +599909,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||haoshengtoys.com^
 ||haostat.qihoo.com^
 ||haoweb.top^
+||haowvoqhhouer.site^
 ||haoxxwang.com^
 ||haoyangmao.ltd^
 ||haoyoushuo.cn^
@@ -600219,6 +600272,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||havenfaintpathway.bond^
 ||haveningry.live^
 ||haveningry.net^
+||havenleaf3.com^
 ||havennord.com^
 ||havenridgeorchard.top^
 ||havenworks.com^
@@ -600627,6 +600681,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hdjthzg.cn^
 ||hdjyhh.heartpercent.co.kr^
 ||hdkbxadnbxvua.online^
+||hdksdknlgcnax.online^
 ||hdlcscvhoyuhs.online^
 ||hdluzy.safarilounge.jp^
 ||hdmhca.mobiletopup.co.uk^
@@ -601474,6 +601529,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hhba03230kdh.com^
 ||hhbehcahhajfffciaaef.world^
 ||hhbetevelthyg.site^
+||hhbs.hhu.edu.cn^
 ||hhbxcs.tylko.com^
 ||hhbypdoecp.com^
 ||hhcj.co.uk^
@@ -601738,6 +601794,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||higreens.co.in^
 ||higuhoivpa.com^
 ||hihashop.com^
+||hihhcbemcpeaq.space^
 ||hihkqknzaiomi.site^
 ||hihohehgobxem.site^
 ||hihufu.cn^
@@ -602537,6 +602594,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hnbohai.com^
 ||hnbutton.appspot.com^
 ||hncfpzkqjtgdq.site^
+||hncotgjzlxzze.website^
 ||hncsdayu.com^
 ||hndct.com^
 ||hndiyikj.com^
@@ -602771,6 +602829,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||holmes.vittaderma.com^
 ||holmesmind.com^
 ||holmicsabins.cfd^
+||holodeo.net^
 ||hologramcollector.shop^
 ||holoverz.online^
 ||holsam.technicalhandsonlabs.dev.cjmadobe.com^
@@ -603480,6 +603539,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hps.pornpics.com^
 ||hps93z2u.xyz^
 ||hpsatusskaszi.site^
+||hpsbiffdokrzo.online^
 ||hpsbpqwawzpwf.space^
 ||hpsd.k12.pa.us^
 ||hpslbgjvyrtrm.website^
@@ -603827,6 +603887,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||htkyarsmdltca.site^
 ||htkyyevpmjaja.website^
 ||htl.bid^
+||htl6hgbj3k4zbq9p4q7pcfffh4bf8.cfd^
 ||htlbid.com^
 ||htlbtuvfahgzq.online^
 ||htliaproject.com^
@@ -604485,6 +604546,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hvqndbbmvbcrc.online^
 ||hvqnfgvusjsnc.space^
 ||hvqwjvoisrnhx.website^
+||hvqxxesmroali.website^
 ||hvqyf.cn^
 ||hvrhgt.the-sun.com^
 ||hvrhgt.thescottishsun.co.uk^
@@ -604544,6 +604606,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||hwfoaxxlzfeeh.online^
 ||hwikmrenzqmva.online^
 ||hwiuf.uk^
+||hwjdnbflipxpz.website^
 ||hwkftvcicrgwe.website^
 ||hwkfzf.meinauto.de^
 ||hwkj4ohnfekvux664ex.y5etgevy2wkx91.cyou^
@@ -611646,6 +611709,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||irritatededuce.com^
 ||irrowewexyemh.website^
 ||irruptbutment.com^
+||irruptstarsus.click^
 ||irrzipvfvudcn.space^
 ||irs01.com^
 ||irs01.net^
@@ -612492,6 +612556,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||iyqtpifqeoavq.site^
 ||iyresfhhvgqex.site^
 ||iyrrtosjcravm.online^
+||iyrvomabqnqdo.online^
 ||iytgsogniseyy.space^
 ||iytkkiscgpghh.site^
 ||iytnwiw0e1.com^
@@ -612831,6 +612896,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||jaldemu.shop^
 ||jaldexo.shop^
 ||jaldovi.shop^
+||jalebel7abeb.com^
 ||jaleeazymous.cfd^
 ||jalousedoglesswejack.cfd^
 ||jalrlgochsjoe.space^
@@ -615084,6 +615150,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||jrrea.eddiebauer.ca^
 ||jrrmojsntectt.site^
 ||jrrswcrteqcdu.website^
+||jrrxbicxeekny.online^
 ||jrs.freshrules.agency^
 ||jrs2igoimq.ru^
 ||jrsqridbdibri.site^
@@ -615941,6 +616008,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||jvsspnnctftej.site^
 ||jvtncvuz.app.arstrongertogether.com^
 ||jvtvd.vincecamuto.com^
+||jvudxbiqnwnez.website^
 ||jvunf.modernblaze.com^
 ||jvvhj.memoryone.my^
 ||jvvykkopbzejv.site^
@@ -616209,6 +616277,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||jzjtijnsgpnpe.site^
 ||jzjxmj.com^
 ||jzkapp.com^
+||jzkdrpijw30voy0.club^
 ||jzkhcjmzghcsf.space^
 ||jzklxzldskqok.online^
 ||jzmgykztfsjwd.website^
@@ -616589,6 +616658,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||kalidea-matomo.tickandshop.fr^
 ||kalisseries.com^
 ||kalitereklam.com^
+||kallegereland.rest^
 ||kallerupstone.viessmann.dk^
 ||kalmerino.com^
 ||kalmerito.com^
@@ -616836,6 +616906,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||kavtqkbsyrpzt.site^
 ||kavuro.shop^
 ||kavxx.com^
+||kavyasourcing.com^
 ||kawa11.space^
 ||kawabe.es^
 ||kawarayu.net^
@@ -619375,6 +619446,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||krjxhubmrumxk.online^
 ||krjxhvyyzp.com^
 ||krknzt.theo.blue^
+||krkqqmpvemkui.website^
 ||krkstrk.com^
 ||krksub.maagtechnic.ch^
 ||krlia.diodedynamics.com^
@@ -619624,6 +619696,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ktxajexoooiso.space^
 ||ktxtr.com^
 ||ktzeogwpchikm.online^
+||ktzfqdhougpnh.online^
 ||ktzggmigkucmy.website^
 ||ktzhk.com^
 ||ktzuoc.bueroshop24.de^
@@ -621193,6 +621266,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||lastfrontiernews.com^
 ||lastingillipe.com^
 ||lastingquiver.com^
+||lastjobporkmanscalper.cyou^
 ||lastmeasure.zoy.org^
 ||lastpage.pw^
 ||lastpassdatasecurityincident.e.epiqnotification.com^
@@ -622461,6 +622535,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||leudilingium.com^
 ||leudvisitor.qpon^
 ||leue.stape.net^
+||leukomaplanishredroop.cfd^
 ||leumia.io^
 ||leuquipe.fr^
 ||leurg.ritualzeroproof.com^
@@ -624594,6 +624669,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||liveads.jp^
 ||liveadvert.com^
 ||liveakdai-ads.slivcdn.com^
+||liveandhadapickup.org^
 ||liveats-vod.video.ptqy.gitv.tv^
 ||livebeat.shop^
 ||livebetting.com^
@@ -625177,6 +625253,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||lmohlfnbelorf.website^
 ||lmoney01.com^
 ||lmorsb.highstreettv.com^
+||lmouywaaussjy.website^
 ||lmpadebis.gala-series.com^
 ||lmpvjicjvvfuyhefmggs.com^
 ||lmpygevzkenzr.online^
@@ -625329,6 +625406,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||lo2xxp73v7.com^
 ||lo42y56tmy.com^
 ||lo842bh92z4zct.4tmyj6zv8gbh84fkezlm2tty.cyou^
+||lo88.live^
 ||loa-analytics.guli-games-prod.com^
 ||load-pt.minhavidente.com.br^
 ||load-res-static.lol^
@@ -635661,6 +635739,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||lrnopx.fackelmann.de^
 ||lrnumdzqvryvw.online^
 ||lrnxjrqvhczjx.space^
+||lroakouvogefs.website^
 ||lrorwzpayomsy.space^
 ||lrose.wilcoskybluesky.com^
 ||lrp7.carrefour-banque.fr^
@@ -636714,6 +636793,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||lzopmoas.in^
 ||lzoqkmi1y31n892ovon9kfx.oelup71j7mpj6ch4u.cyou^
 ||lzp.plus^
+||lzphninlofxbf.online^
 ||lzpiozkcngklw.site^
 ||lzpymucz.com^
 ||lzqgelpcgpruk.site^
@@ -637974,6 +638054,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||m2track.co^
 ||m2u.376710.com^
 ||m2wrsmrsbj.com^
+||m2z7r9k4p1.com^
 ||m3.dreamdecking.co.uk^
 ||m3.repka.online^
 ||m30bh0coz2.com^
@@ -645732,6 +645813,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||meatspin.biz^
 ||meatspin.com^
 ||meatusbyway.cfd^
+||meatusrunch.com^
 ||meatydime.com^
 ||meatytalk.pro^
 ||meayis.cfd^
@@ -646679,6 +646761,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||mesa.casaantonio.com^
 ||mesa.jacquelinebarcelona.com^
 ||mesaviewlodge.com^
+||mescalfalsie.click^
 ||mescicreer.store^
 ||mesclck.com^
 ||meselryamiga.cfd^
@@ -646867,6 +646950,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||meteorsolutions.com^
 ||meteortoffee.com^
 ||meteortrail.net^
+||metepasreedily.rest^
 ||meter-svc.nytimes.com^
 ||meter.bref.sh^
 ||meter.rhinobag.de^
@@ -652494,6 +652578,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||mkaragqzeov.com^
 ||mkatakavcaxm.in^
 ||mkbgzaxkwyilk.online^
+||mkbuhgfgjoalj.website^
 ||mkcf-defender.pro^
 ||mkcgi.divadlobravo.cz^
 ||mkcmuoujzgsxv.online^
@@ -655609,6 +655694,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||munihuacho.gob.pe^
 ||munijunin.gob.pe^
 ||munilf.com^
+||munitetakahes.click^
 ||munnin.hicsuntdra.co^
 ||munopuzzle.com^
 ||munqu.com^
@@ -657672,6 +657758,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||nayatowerinstallation.in.net^
 ||nayeem.knsbizlab.com^
 ||naytev.com^
+||nazardspallerfleur.cfd^
 ||nazarickol.com^
 ||nazcu.winc.com^
 ||naznfshwgtkyk.space^
@@ -659688,6 +659775,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||nhzoldfdnzhjt.site^
 ||nhzrlz.nieuwnieuw.com^
 ||nhzvkfl.shop^
+||nhzwttjyknyc.com^
 ||nhzylwcpmcchb.space^
 ||ni-ad-lgsmartad-com.aws-prd.net^
 ||ni3ebfpqwpq.hcwwgqp7lkmqogu.cyou^
@@ -661314,6 +661402,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||nphpfgdf.com^
 ||nphxtgyzxotgf.online^
 ||npilkasacdu.in^
+||npisnnnjhiymy.site^
 ||npitaqvuwci.in^
 ||npixaybinazjt.site^
 ||npixnaidampmp.space^
@@ -661502,6 +661591,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||nrqsqq.schlanser.ch^
 ||nrquff.supurgemarket.com^
 ||nrrgyk.hair-gallery.it^
+||nrrlbysowstqt.website^
 ||nrrofvqgzprnb.space^
 ||nrs6ffl9w.com^
 ||nrstcpasettlement.e.epiqnotification.com^
@@ -661762,6 +661852,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ntjhm.1800baskets.com^
 ||ntjumvumqzufo.space^
 ||ntjzr.peluchebebe.com^
+||ntjzyxcbsp.com^
 ||ntk-indo.com^
 ||ntk.faptor.com^
 ||ntkgkyalavlcs.space^
@@ -661808,6 +661899,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ntsreoealtutd.site^
 ||ntt-fletscv.ntt-flets.com^
 ||nttdldudg.com^
+||ntunwcfkynwjr.space^
 ||nturnm.unisport.dk^
 ||ntus.bidease.com^
 ||ntuu56.epem1wcu172pkob67xuifg9.cyou^
@@ -662334,6 +662426,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||nxw.0518g.com^
 ||nxwniq.aboutyou.ie^
 ||nxwulwcz.koikichi.ch^
+||nxxgjgwzehceq.online^
 ||nxxlfhtdcpzjz.site^
 ||nxxoxununzefm.website^
 ||nxxpgruglnfha.online^
@@ -662855,7 +662948,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||obhxvb.tmktools.ru^
 ||obidzo.gertsakiln.shop^
 ||obigre.ru^
-||obiknmm.icu^
 ||obilic.pravareklama.com^
 ||obislame.ru
 ||obituaries.therecord.com^
@@ -663163,6 +663255,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||oconner.link^
 ||ocoopdcpmqxpy.site^
 ||ocop-defender.pro^
+||ocozoavciawbl.online^
 ||ocpgll.bannerbuzz.ca^
 ||ocpi.americanexpress.ca^
 ||ocpnroag.com^
@@ -663175,6 +663268,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ocracyaftmost.cfd^
 ||ocrgduldhsxkc.site^
 ||ocrghebunvuc.in^
+||ocrhpbwqhmoxw.space^
 ||ocrlmgqgqlfqt.store^
 ||ocrruiyzxicvz.website^
 ||ocry.com^
@@ -664044,6 +664138,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||oj2q8.montecarlosbm.book-secure.com^
 ||oj95rctd5.com^
 ||ojang.pe.kr^
+||ojaoaqtmzkyqm.website^
 ||ojbuupgvpxg.com^
 ||ojccpggkwvauk.online^
 ||ojcg5dfr.eu.cc^
@@ -667218,6 +667313,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||outlettaschenbooks.shop^
 ||outlettiles.com^
 ||outliercrocker.qpon^
+||outline-willow.com^
 ||outlinearray.com^
 ||outlinedesignateinstalment.com^
 ||outlinedistinguish.com^
@@ -670080,6 +670176,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pbar.webtrafficinsights.com^
 ||pbase.cfd^
 ||pbb4dja.com^
+||pbbfngznkifdz.online^
 ||pbbl.co^
 ||pbbsimvooomhn.online^
 ||pbc.barrons.com^
@@ -670452,6 +670549,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pdwrsrmjjrvvj.space^
 ||pdxor02.com^
 ||pdzgxujvfqngs.website^
+||pdzmkymbyhqsu.website^
 ||pdzosfpizkqso.online^
 ||pdzutf.sftworks.jp^
 ||pdzzjz.icu^
@@ -671116,6 +671214,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pezhvufgyiaur.site^
 ||pezkg.chichicosmetics.com^
 ||pezksldjeasrv.website^
+||pezpewcygkkbw.com^
 ||pezpjhmpwqksw.online^
 ||pezrqwvweqvrp.site^
 ||peztd.eastperry.com^
@@ -673260,6 +673359,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pkdzd.kafibody.com^
 ||pkeeper3.ru^
 ||pketred.com^
+||pkfgxpgftniet.online^
 ||pkfvfrnzcposg.online^
 ||pkg.balluff.com^
 ||pkhevp.suplinx.com^
@@ -675225,6 +675325,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||polverixpro.com^
 ||polvviticalizationsbipartisanship.info^
 ||polyad.net^
+||polyaris-beta.com^
 ||polydarth.com^
 ||polyfill-js.cn^
 ||polyfill.io^
@@ -678415,6 +678516,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pubds.bid^
 ||pubexchange.com^
 ||pubfeed.linkby.com^
+||pubfluencers.com^
 ||pubfs.com^
 ||pubfuture-ad.com^
 ||pubfuture-cdn.com^
@@ -679074,7 +679176,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pushelp.pro^
 ||pushengage.com^
 ||pusherapp.com^
-||pusherblight.com^
 ||pushfilefind.click^
 ||pushflow.net^
 ||pushflow.org^
@@ -679332,6 +679433,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||pwirmg.supernurse.co.jp^
 ||pwjfuxffzbdxo.website^
 ||pwjiov.certideal.es^
+||pwjkbxkmphibo.website^
 ||pwk.datawrapper.de^
 ||pwk.tweedekamer.nl^
 ||pwk73hidf2.com^
@@ -679727,6 +679829,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||q4ddve.casa^
 ||q4l5gz6lqog6.www.eventus.io^
 ||q4u5298s.xyz^
+||q4x8n6b2t5.com^
 ||q511.wpbf.com^
 ||q552.iisalmensanomat.fi^
 ||q58nf16jd3.com^
@@ -680121,6 +680224,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||qeecl.bewegungsmeister.de^
 ||qeefmjogpyayw.online^
 ||qeefxyltwpruv.website^
+||qeelgrakizfjm.space^
 ||qeezie.folm.de^
 ||qefgrktzkhkvv.space^
 ||qefwqf.chungdamgirl.com^
@@ -680142,6 +680246,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||qemutue.lovable.app^
 ||qenb2pxx.xyz^
 ||qendrixanblog.com^
+||qenfyrdmlplnq.online^
 ||qenirovalux.com^
 ||qenxaznflsysp.space^
 ||qeoa.hawbfa.com^
@@ -680212,6 +680317,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||qf51ho9qtz.com^
 ||qf7pnghc.94fmglu238b418z.cyou^
 ||qfanyeojjmkmw.online^
+||qfaofgurgui.com^
 ||qfbles.elefant.ro^
 ||qfbmwjqbbzogx.space^
 ||qfc4ac1f6.com^
@@ -680620,6 +680726,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||qkffv.com^
 ||qkfywghv.com^
 ||qkg7yplpfo.com^
+||qkglku8v52hjoy7xjx7bh.rest^
 ||qkgoahutyimrf.site^
 ||qkhhjm.autoscout24.nl^
 ||qkinm.be-clinical.com^
@@ -685779,6 +685886,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||rfmqq.mindfulsouls.com^
 ||rfmqx.tanga.com^
 ||rfnhj.sleeponchime.com^
+||rfo6wiwjn6z7w7f.rest^
 ||rfoimlidydyph.site^
 ||rfoundabimebanksia.qpon^
 ||rfpbmkezjrtkf.site^
@@ -686529,6 +686637,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||rjxujpuoxmtlr.website^
 ||rjxweb-whatsapp.com^
 ||rjzixftftgard.website^
+||rjzkpjycwcmuh.space^
 ||rjzkulworyqil.space^
 ||rjzmq.sanctuaryaz.com^
 ||rk.rongchengxxw.com^
@@ -686810,6 +686919,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||rnlvv.oolala.com^
 ||rnmbl.helloskincare.com^
 ||rnmentoftheusys.org^
+||rnmodtaeuegne.space^
 ||rnmreusbdsmyc.space^
 ||rnmth.sofreshy.se^
 ||rnmvycnfkeinl.website^
@@ -686925,6 +687035,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||robleinvero.com^
 ||roblepatrimivo.com^
 ||roblevalorio.com^
+||roblox-executr.com^
 ||roblox.com.am^
 ||roblox.com.bo^
 ||roblox.com.bz^
@@ -687585,6 +687696,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||rpwnse.bagborroworsteal.com^
 ||rpwuwb.lamparayluz.es^
 ||rpxivezmgxguv.site^
+||rpxrrkmujxbhr.website^
 ||rpyfymluiytke.website^
 ||rpygulnnitaeg.space^
 ||rpyztjadsbonh.store^
@@ -691533,6 +691645,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||sageanalyst.net^
 ||sageartisan.com^
 ||sagefr.fr^
+||sagemosaicart.com^
 ||sagent.io^
 ||sagepatrimene.net^
 ||sagethumbs.com^
@@ -691652,6 +691765,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||sales.avis.com^
 ||sales.disneylandparis.com^
 ||sales.hot.net.il^
+||sales.ifree.page^
 ||sales.northeastind.com^
 ||sales.pandasuite.io^
 ||sales.storenewlifehomeo.com^
@@ -692911,6 +693025,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||scfrwo.cn^
 ||scfsdvc.com^
 ||scfw.wang^
+||scfywgqhlxpfy.website^
 ||scgfkxgnyjvbu.site^
 ||scgis.co.uk^
 ||scgnuwmfw.com^
@@ -693324,10 +693439,12 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||scucptxepxtre.site^
 ||scuddlenudnik.com^
 ||scuhuh.cucannetshop.jp^
+||scujknruxwcep.site^
 ||scukeknekbomd.website^
 ||sculksmaists.com^
 ||sculptorhomeworkpersecute.com^
 ||scumbrammo.store^
+||scupfulrespond.cyou^
 ||scupio.com^
 ||scupio.net^
 ||scurra.space^
@@ -693702,6 +693819,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||sdownload.stargame.com^
 ||sdpaknwjwrsmj.site^
 ||sdpimt.lostgolfballs.com^
+||sdplzkixuivrv.site^
 ||sdpvirkxndxwc.online^
 ||sdpymnujiurkj.website^
 ||sdqoi2d.com^
@@ -693841,6 +693959,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||seapolo.com^
 ||seapurelab.digital^
 ||seaquake54.com^
+||searbgbbmeixj.online^
 ||search-ads-api.joongna.com^
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
 ||search-converter.com^
@@ -706003,6 +706122,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||she-want-fuck.com^
 ||sheafsdeck.cyou^
 ||shealapish.com^
+||shealsunrow.com^
 ||shealth-analytics-api.samsunghealth.com^
 ||sheareasygoingcommerce.com^
 ||sheargovernor.com^
@@ -707605,11 +707725,13 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||sinhcursed.com^
 ||sinhojajmaiyi.online^
 ||sinhvienvietnam2022.weebly.com^
+||sinhxpdlctxvb.site^
 ||sinifyfimble.qpon^
 ||sinistercokeservice.com^
 ||sinisterdenied.com^
 ||sinisterreason.com^
 ||siniticaltesse.cyou^
+||sink.archive.org^
 ||sink.gw.booking.com^
 ||sinkagepandit.com^
 ||sinkersstereom.com^
@@ -707727,7 +707849,9 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||site.finncorp.com^
 ||site.firstnet.com^
 ||site.grilo.com.br^
+||site.hfgjjkrewjk.com^
 ||site.infosysbpm.com^
+||site.jiancai008.com^
 ||site.johnlewis-insurance.com^
 ||site.johnlewis.com^
 ||site.lajeadoimoveis.com.br^
@@ -707738,6 +707862,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||site.theshowerheadstore.com^
 ||site.tiny.cloud^
 ||site.ultimatetax.com^
+||site.vietnam852.com^
 ||site.waitrose.com^
 ||site1.ru^
 ||site2.emarketer.com^
@@ -708094,6 +708219,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||skdailynews.com^
 ||skdijdo10.eu.cc^
 ||skdisplay.jd.com^
+||skdkvwchzjkfk.site^
 ||skdtveilhzynd.store^
 ||skean-doo.shop^
 ||skeansleeful.com^
@@ -709733,6 +709859,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||smetrics.bliz.com^
 ||smetrics.blockadvisors.com^
 ||smetrics.blockbuster.com^
+||smetrics.bloombergtax.com^
 ||smetrics.bluegrasscellular.com^
 ||smetrics.bluemercury.com^
 ||smetrics.bluenile.com^
@@ -710812,6 +710939,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||smetrics.greenflag.com^
 ||smetrics.greenpan.us^
 ||smetrics.greenrow.com^
+||smetrics.greenstate.com^
 ||smetrics.group.pictet^
 ||smetrics.group.uhc.com^
 ||smetrics.groupama.fr^
@@ -713505,6 +713633,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||smetrics.yo-ko-o.jp^
 ||smetrics.yola.com^
 ||smetrics.yourclip.life^
+||smetrics.yourconroenews.com^
 ||smetrics.yourdot.com^
 ||smetrics.yourdot.net^
 ||smetrics.yourheartsmessage.com^
@@ -713898,6 +714027,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||smx.mobilidifirma.it^
 ||smxmlr.shimojima.jp^
 ||smy.iheart.com^
+||smyalsonxlif.in^
 ||smyk-childrenclothing.shop^
 ||smyk-faithpl.shop^
 ||smyk.butosklepoutlet.com^
@@ -714363,6 +714493,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||social.oomi.co.uk^
 ||social.talenttitan.com^
 ||social.tinyview.com^
+||socialbackyard.com^
 ||socialbars-web1.com^
 ||socialbooster.pl^
 ||socialcompletelydefrost.com^
@@ -737280,6 +737411,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||steadyworthamend.net^
 ||steakeffort.com^
 ||steakordeal.com^
+||stealerhaulier.click^
 ||stealsteel.com^
 ||stealth.nl^
 ||stealthedeal.com^
@@ -737447,6 +737579,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||stg8.com^
 ||stgcdn.com^
 ||stgdata-ads-fr.heytapmobile.com^
+||stgeflortryout.cfd^
 ||stger.olly.com^
 ||stghyx.citilink.ru^
 ||stgm.cashflowy.ai^
@@ -739221,7 +739354,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||sunshinepint.com^
 ||sunshinesentinel.com^
 ||sunstrokeeastcookie.com^
-||sunsundown.com^
 ||suntanfiscs.cyou^
 ||suntcontent.se^
 ||suntechauto.com.cn^
@@ -740260,10 +740392,12 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||swiftemergency.pro^
 ||swiftenwhindle.com^
 ||swiftfleta.cfd^
+||swiftfusion.tech^
 ||swiftintro.com^
 ||swiftladle.com^
 ||swiftlymonumentcheating.com^
 ||swiftlypairs.com^
+||swiftmidsmeratia.cyou^
 ||swiftmining.win^
 ||swiftonyx16.com^
 ||swiftsparknews.digital^
@@ -740697,6 +740831,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||sylviapettah.com^
 ||sylxisys.com^
 ||symaa.cn^
+||symaj.cn^
 ||symantec.ecs.arrow.com^
 ||symantex.com^
 ||symantke.com^
@@ -740717,6 +740852,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||symposium44.com^
 ||symptom39.com^
 ||synacast.com^
+||synangesinky.com^
 ||synapseflow.work^
 ||synapseimmobilier.ch^
 ||synapsys.us^
@@ -740903,6 +741039,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||systeme-business.online^
 ||systemeu.data.adobedc.net^
 ||systemleadb.com^
+||systemone.net^
 ||systemssummit.com^
 ||systemtechnlque.com^
 ||systssczhkth.com^
@@ -742301,6 +742438,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||t2.vbxx.net^
 ||t2.xiaohongshu.com^
 ||t2.zcvh.net^
+||t2037ulzqct5.com^
 ||t27bgb379vj8nvtm.cfd^
 ||t28goe.cn^
 ||t28vj64hhbhbimhjev6.cfd^
@@ -742437,6 +742575,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tabiraathecae.com^
 ||tabjnarbsbhlk.space^
 ||table-whatsapp.com^
+||tableheads.com^
 ||tableland06.top^
 ||tableleaders.com^
 ||tableware-sale.shop^
@@ -746633,6 +746772,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tgmvr.bymaay.com^
 ||tgnbp.getbiom.co^
 ||tgncwp.helmonline.nl^
+||tgnjbpvcdrwfu.website^
 ||tgnvngbiwnfcv.space^
 ||tgocketieimfj.site^
 ||tgodwwsydkht.com^
@@ -748012,6 +748152,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tinybar.com^
 ||tinyblobs.com^
 ||tinybluewhale.com^
+||tinybodega.com^
 ||tinyclues.com^
 ||tinycounter.com^
 ||tinyfiles.nocoshop.ru^
@@ -748297,6 +748438,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tjnuztjtlqihq.site^
 ||tjnwfjy.cn^
 ||tjnwt.crocs.ca^
+||tjoehjtdmojgm.site^
 ||tjokezsaw.remboursementfacile.com^
 ||tjosjuihqnxke.online^
 ||tjp56x.ru^
@@ -748578,7 +748720,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tkccn.madhappy.com^
 ||tkdami.net^
 ||tkdjmibffvzst.online^
-||tkdjrsee.icu^
 ||tkdlxkbgttsuj.space^
 ||tkdswyljquygm.website^
 ||tkedzboduiisv.space^
@@ -758473,6 +758614,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tubroaffs.org^
 ||tubrtb.com^
 ||tubs.magnushomeproducts.com^
+||tubularservices.com^
 ||tubularstypsis.com^
 ||tubxporn.xxx^
 ||tucancasino-enligne.fr^
@@ -758560,6 +758702,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tulip18.com^
 ||tulipwoodsopponenlls.info^
 ||tulsastandard.com^
+||tulsjfvn.com^
 ||tulsmcvbuzvsk.website^
 ||tum8.vuu3bd53.lol^
 ||tumabeni.com^
@@ -758600,6 +758743,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||tunisiadoozies.click^
 ||tunkergiglot.cfd^
 ||tunlandporotic.cyou^
+||tunnel-activation.cc^
 ||tunneldata.arenahotel.com.br^
 ||tunneldata.atriohoteis.com.br^
 ||tunneldata.blueparkfoz.com.br^
@@ -759869,6 +760013,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ucdesk.cn^
 ||ucdeyqaaexbqd.online^
 ||ucdn.adgebra.co^
+||ucdpawrzcucoz.site^
 ||ucdvze.gudrunsjoden.com^
 ||ucdwezftjdksn.site^
 ||ucdwxztp.com^
@@ -760104,6 +760249,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ueaczqcyrvval.online^
 ||ueadlian.com^
 ||ueaeahze.com^
+||ueavzmpxbrtgt.site^
 ||ueb4.destinia.tw^
 ||uebabuf.cn^
 ||uecbz.muddymat.co^
@@ -760424,6 +760570,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||uhuscgdeybspg.space^
 ||uhuvadkubxjkv.website^
 ||uhvah.plankandbeam.com^
+||uhvimfaemjhzk.site^
 ||uhvpofkofvfwz.online^
 ||uhvsp.sonsieskin.com^
 ||uhwcuf.qoocobb.com^
@@ -760737,6 +760884,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ulaywt.equmal.com^
 ||ulbruiqadlmaa.online^
 ||ulbsqeyjjthea.site^
+||ulbvhbefihzzf.site^
 ||ulcgleqeazcuo.site^
 ||ulclick.ru^
 ||ulcvtuslxtkxx.site^
@@ -760907,7 +761055,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||um1.cn^
 ||um29.com^
 ||um2lnz.evjk5ftl2l2cz54cl.cyou^
-||um5xcgngmart.xyz^
 ||uma.headpump.shop^
 ||umagccwbbjlne.space^
 ||umahvvivrpbfx.online^
@@ -761394,6 +761541,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||umhjh9rwe.com^
 ||umhkzidngrmor.website^
 ||umhyck.belvilla.com^
+||umhywwaktzkyy.space^
 ||umi.cloudful.de^
 ||umiacksporule.com^
 ||umiakfibster.com^
@@ -761726,6 +761874,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||unfaceusednt.com^
 ||unfairgenelullaby.com^
 ||unfairshout.com^
+||unfamedupside.cfd^
 ||unfamiillardates.net^
 ||unfamiliardulygymnasium.com^
 ||unfamiliiardates.net^
@@ -761755,6 +761904,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||ungirtgnatter.qpon^
 ||ungluedhaikwan.cyou^
 ||ungreeninwrit.com^
+||ungswaeprgvpj.site^
 ||ungu.in^
 ||unguispolearmgemels.cyou^
 ||unguisregaltylorarii.cyou^
@@ -761771,6 +761921,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||unhitchdusks.click^
 ||unho.unhesiss.shop^
 ||unhold.ldgjhd.net^
+||unhurtdittay.click^
 ||uni-swap.online^
 ||uni.cc^
 ||uni.okane-reco-plus.com^
@@ -761999,6 +762150,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||unlimits.net^
 ||unlined-you.com^
 ||unlinedsound.com^
+||unlistydopa.cyou^
 ||unlitui.com^
 ||unloadonly.com^
 ||unloadyourself.com^
@@ -762766,6 +762918,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||urlcash.com^
 ||urlcash.net^
 ||urlcod.com^
+||urlcqusrhzcjp.website^
 ||urldelivery.com^
 ||urle.me^
 ||urlhausa.com^
@@ -763884,6 +764037,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||utuydnmq.top^
 ||utvjpspowjctw.com^
 ||utvpgofovefrp.site^
+||utvrwtqhankis.website^
 ||utvuveiklresu.website^
 ||utwghbrzkywjb.website^
 ||utwjzcomsuoqd.site^
@@ -764276,6 +764430,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||uzhsqimcpjyjy.website^
 ||uzhuangji.cn^
 ||uzi66.jozee.cn^
+||uzicoerpqqkou.site^
 ||uziesijakitin.store^
 ||uzihdotfqfoof.site^
 ||uzipbs.weltbild.ch^
@@ -764629,6 +764784,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||vafysu.ecco-verde.ch^
 ||vagabahq.canapandolab.net^
 ||vagasvindex.com^
+||vagmvbpmplcjo.site^
 ||vagneraorison.rest^
 ||vagrejaba.com^
 ||vague-key.com^
@@ -765333,7 +765489,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||vcikz.vivancostrim.com^
 ||vcjakapovikso.site^
 ||vcjsm.bluefalcongolf.com^
-||vcjzjnef.icu^
 ||vckav.merakimedicinal.com^
 ||vckgixqqnyosr.website^
 ||vckgrmcikcze.com^
@@ -766798,7 +766953,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||view.peek-cloppenburg.de^
 ||view.peek-cloppenburg.nl^
 ||view.peek-cloppenburg.pl^
-||view.publitas.com^
 ||view.spaceberg.cc^
 ||view.stylebob.com^
 ||view.trendwiseai.com^
@@ -768272,6 +768426,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||vn88.mobi^
 ||vn88.quest^
 ||vn88631p.com^
+||vn887.com^
 ||vn88khuyenmai.life^
 ||vn88khuyenmai.site^
 ||vn88khuyenmai.space^
@@ -769890,6 +770045,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||vzpxm.cypressmountain.com^
 ||vzq.biathlonworld.com^
 ||vzqgs.billini.com^
+||vzqnoqlpkxejy.website^
 ||vzrhwmsj.icu^
 ||vzstscoagbdvv.online^
 ||vzszcxov.amicoblu.it^
@@ -773276,6 +773432,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||whistlingwentwool.com^
 ||white-ar.com^
 ||white-call.com^
+||white-vpn.top^
 ||white.sexer.com^
 ||whitebet.com^
 ||whitebluerights.com^
@@ -775102,6 +775259,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||wqpttcwjnqqxn8tzhe.cfd^
 ||wqrebmjfbphwk.website^
 ||wqrkuukxyoi.com^
+||wqrn59d.com^
 ||wqs4.destinia.pt^
 ||wqshui.com^
 ||wqtvhnrmmgbdn.online^
@@ -775138,6 +775296,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||wrapstretch.com^
 ||wrapstupendous.com^
 ||wrastredarn.com^
+||wrathsecrets.com^
 ||wraththreat.com^
 ||wrathyblesmol.com^
 ||wrating.com^
@@ -775713,6 +775872,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||wwdhgevpmxmvs.online^
 ||wwdjszncajqwt.online^
 ||wwe.leetieniu.com^
+||wweakefn.com^
 ||wweqeizpoqjfu.online^
 ||wwesvxfqdabhf.space^
 ||wwfgafqh.com^
@@ -776447,6 +776607,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||www.friendgreetings.com^
 ||www.friendgreetings.net^
 ||www.fripta.com^
+||www.fu68.com^
 ||www.funkycovers.com^
 ||www.funtopliste.de^
 ||www.fussballtrikotsale.com^
@@ -778197,6 +778358,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||x7i0.com^
 ||x7k.adventure-marketing.com^
 ||x7k.speakwithmaya.com^
+||x7k9m2q4z8r1.com^
 ||x7qhjjryf1.com^
 ||x7r3mk6ldr.com^
 ||x7weiubb2f.com^
@@ -780561,6 +780723,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||xnasldata-63224ea7ba.apps.iocnt.de^
 ||xnbbhxsnvxook.online^
 ||xnbjsc.travelwith.jp^
+||xnboo8l32flmyyzo.cfd^
 ||xncilrhkqmvrd.site^
 ||xncyme.chungsosin.com^
 ||xndjh.hebiz.cn^
@@ -780617,7 +780780,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||xo88.tw^
 ||xo88.us^
 ||xo88.win^
-||xo88bet.com^
 ||xoada0pzosa.appspot.com^
 ||xoagbk.mobilhome-express.fr^
 ||xoalt.com^
@@ -782241,6 +782403,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||yebvpc.gardengoodsdirect.com^
 ||yectwxcyecvqb.site^
 ||yed.net.mydays.de^
+||yeddxzhfcorty.site^
 ||yedftrwashosh.space^
 ||yeeok.com.cn^
 ||yeesshh.com^
@@ -782523,6 +782686,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||yh300.vip^
 ||yh6u.dealeusedevoyages.com^
 ||yhaknyoqjenbl.website^
+||yhaxtkqkdgnmu.website^
 ||yhbatwdehlcrz.website^
 ||yhbcii.com^
 ||yhbdzh.farmasiint.com^
@@ -782575,6 +782739,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||yhwadexncyozg.website^
 ||yhxpacevrlsmc.space^
 ||yhxpmssfuuajs.online^
+||yhyonread.com^
 ||yhyumuoyahocw.website^
 ||yhyuxrfbsweho.site^
 ||yhz18.com^
@@ -782634,6 +782799,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||yieldtraffic.com^
 ||yieldtrk.com^
 ||yifayiapp.oss-cn-hongkong.aliyuncs.com^
+||yifbkgyrogtxq.site^
 ||yiferh.nursemates.com^
 ||yiffany.com^
 ||yifujing.com^
@@ -783524,6 +783690,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||yqhbbppxapnzx.site^
 ||yqhorcill.com^
 ||yqhpp.thehonestkitchen.com^
+||yqhzzrmwbdgxo.online^
 ||yqigli.tourlane.de^
 ||yqiila.nuernberger-jobanzeiger.de^
 ||yqjlg14t74pu2ntue.cyou^
@@ -785906,6 +786073,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||zlgkpr.lottehotel.com^
 ||zlgpqh.rikorda.it^
 ||zlhoteckelinie.wz.cz^
+||zlhtkczbxrjzm.website^
 ||zlhxcsrjvqugb.site^
 ||zlibrary-global.com^
 ||zlibrary.to^
@@ -786092,7 +786260,6 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||znftxennxelii.website^
 ||zngaaixe.fit1.hu^
 ||zngkzslgifgon.space^
-||zngvqwp.icu^
 ||znicely.com^
 ||znigpcayzsxyp.site^
 ||zniwiarz.topagrar.pl^
@@ -787112,6 +787279,7 @@ yatu.tv,yhdm7.com,yhdm95.com,xdm530.com##+js(aopw,document.oncontextmenu)
 ||zxuafe.fashionette.nl^
 ||zxuknfffkemse.space^
 ||zxvbq.shop^
+||zxvdpwesxvppt.space^
 ||zxveptyt.rastashop.co.za^
 ||zxvxukirgmomz.site^
 ||zxw51.com^
